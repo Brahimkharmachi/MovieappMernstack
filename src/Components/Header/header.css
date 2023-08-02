@@ -1,0 +1,171 @@
+.navone {
+    background-color:black;
+    padding: 10px 350px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    font-family: "Marcellus";
+}
+
+.navtwo {
+    padding: 5px;
+    background-color:#002542;
+    color: white;
+    font-size: 18px;
+    line-height: 50px;
+    box-sizing: initial;
+    line-height: 1px;
+    max-width: 101vw;
+    display: flex;
+    justify-content: end;
+}
+
+.nav-two {
+    font-size: 12px;
+    font-family: "Marcellus SC", sans-serif;
+    font-weight: bold;
+    display: flex;
+    grid-gap: 10px;
+    margin-right: 30px;
+}
+
+.nav-two a {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.nav-two ul {
+    display: flex;
+    grid-gap: 10px;
+    align-items: center;
+}
+
+.navthree {
+    width: 101vw;
+    height: 97px;
+    color: #252a32;
+    background-color: transparent;
+    background: #010f1d;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+    font-size: 16px;
+    font-family: "Marcellus SC" sans-serif;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    top: 30 !important;
+    position: relative;
+    z-index: 2;
+}
+
+.logonavthree {
+    width: 13%;
+    height: 96%;
+    position: relative;
+    right: -171px;
+    top: 11px;
+}
+
+.flexcenter {
+    display: flex;
+    align-items: end;
+}
+
+.navthree2 {
+    display: flex;
+}
+
+.sticky {
+    position: fixed;
+    z-index: 5;
+}
+
+.navthree img{
+    width: 110%;
+    position: relative;
+    right: 6px;
+    top: 9px;
+}
+
+.sticky  img {
+    display: flex;
+    top: 25px;
+    width: 151px;
+    position: relative;
+    right: -30px;
+}
+
+.navthree ul {
+    display: flex;
+    text-decoration: none !important;
+    list-style-type: none !important;
+    position: relative;
+    justify-content: center;
+    grid-gap: 111px;
+    width: 70%;
+    align-items: center;
+}
+
+.sticky .navthree ul {
+    display: flex;
+    text-decoration: none !important;
+    list-style-type: none !important;
+    position: relative;
+    justify-content: center;
+    grid-gap: 111px;
+    width: 100%;
+    align-items: center;
+    justify-content: end;
+}
+
+.navthree .linknav {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    position: relative;
+    top: 18px;
+    justify-content: end;
+}
+
+.navthree  li a{
+    color: white;
+    font-size: 20px;
+    font-family: "Marcellus SC", sans-serif;
+    display: flex;
+    width: 207%;
+}
+
+.navthree  li a:hover{
+    color: #04abcc;
+    text-decoration-line: none;
+    list-style-type: none !important;
+}
+
+
+.sticky .navthree .linknav {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    position: relative;
+    top: 28px;
+    right: -58px;
+}
+
+
+.navthree2 {
+    position: relative;
+    top: 12px;
+    right: -25px;
+}
+
+
+
+.text {
+    position: none;
+    top: 60px;
+    left: 0;
+    display: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 5px;
+}

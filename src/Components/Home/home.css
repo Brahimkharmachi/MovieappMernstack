@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lateef:wght@800&display=swap');
+.Homespart1{
+    width: 1349px;
+    height:627px ;
+    background-image: url(https://www.splitshire.com/wp-content/uploads/2014/11/SplitShire-03692-1800x1200.jpg) ;
+    background-repeat: no-repeat;
+    -webkit-backdrop-filter: blur(6.97473px);
+    backdrop-filter: blur(6.97473px);
+      
+}
+.Homespart2 h1 {
+
+font-family: 'Lateef', serif;
+position: relative;
+text-align: end;
+right: 150px;
+top: 50px;
+color: #c8e1ef;
+}
+
+.Homespart2 .homepart2one {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Homespart2 .homepart2two {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.Homeserieep {
+    position: relative;
+    display: flex;
+    right: -77px;
+    margin-top: 100px;
+}
+
+.Homespart2 .homepart2three {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.Homespart2 .homepart2four {
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: 20px 0;
+    -webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 3px rgba(0,0,0,0.05);
+    background-image: -o-linear-gradient(190deg, #0d77d1 0%, #00a5ef 100%);
+    background-image: linear-gradient(260deg, #0d77d1 0%, #00a5ef 100%);
+    padding: 10px;
+    background: #16202B;
+    border: 1px solid rgba(108,206,251,0.3);
+    -webkit-backdrop-filter: blur(6.97473px);
+    backdrop-filter: blur(6.97473px);
+    -webkit-border-radius: 9.9639px;
+    border-radius: 9.9639px;
+    height: 276px;
+    margin: 100px;
+}
+
+.Homespart2 .homepart2four1 {
+    display: none;
+}
+
+.Homespart2 .socialmediap {
+    width: 203%;
+    position: relative;
+    right: -180px;
+}
+
+.Homespart2 .socialmediap p {
+    font-family: 'Lateef', serif;
+    position: relative;
+    text-align: end;
+    font-size: 50px;
+    color: white;
+    left: 75px;
+    
+}
+
+.Homespart2 .homesocialmedia {
+    width: 100%;
+    position: relative;
+    top: 129px;
+    right: 174px;
+}
+
+.Homespart2 .homesocialmedia img{
+        width: 32%;
+}
+
+.Homespart2 .homesocialmedia img:hover{
+    transform: scale(1.1);
+}

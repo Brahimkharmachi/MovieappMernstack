@@ -1,0 +1,21 @@
+.caroussel-item{
+    position: relative;
+    width: 550px;
+    height: 315px;
+    top: 40px;
+    border-radius: 5px;
+}
+.w-100d-block {
+    position: relative;
+    width: 550px;
+    height: 315px;
+    border-radius: 5px;
+}
+
+
+
+.carousselteam {
+    display: flex;
+    justify-content: center;
+    grid-gap:50px;
+}

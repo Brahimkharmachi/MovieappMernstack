@@ -1,0 +1,18 @@
+.sliderhome .slick-slider {
+    position: relative;
+    top: 70px;   
+    right: -100px;
+    width: 87%;
+    
+}
+
+
+.sliderhome .slick-next {
+    right: 0px;
+}
+
+
+
+
+
+

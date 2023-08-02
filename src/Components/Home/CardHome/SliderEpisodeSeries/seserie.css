@@ -1,0 +1,29 @@
+
+
+.sliderepisodes {    
+    width: 87.6%;
+    transition: 0.3s;}
+
+.sliderepisodes .slick-track {
+    display: flex;
+    grid-gap: 30px;
+} 
+
+.sliderepisode img{
+    width: 100%;
+
+}
+
+
+.sliderepisode:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+}
+
+.sliderepisode .slick-next {
+    right: -10px;
+}
+
+.sliderepisode .slick-disabled {
+    right: -10px;
+}
